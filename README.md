@@ -45,5 +45,5 @@ This repo is both a learning journal and a showcase of my growth — from beginn
 ## 🤝 Connect
 If you’d like to collaborate,RECRUITE, share feedback, or discuss data analytics, feel free to reach out via GitHub Issues or Pull Requests.
 
-## 🤝 Connect
-If you’d like to collaborate, share feedback, or discuss data analytics, feel free to reach out via GitHub Issues or Pull Requests.
+## my Motto
+"Learning today, analyzing tomorrow."
