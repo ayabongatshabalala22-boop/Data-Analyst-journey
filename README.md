@@ -1,11 +1,11 @@
-# 📊 Data-Analyst-Journey
+# My Data-Analyst-Journey
 
 This repository documents my ongoing journey into the world of **data analytics**.  
 It serves as a personal archive of projects, experiments, and learning milestones as I build and refine my skills as a data analyst.
 
 ---
 
-## 🚀 Skills & Focus Areas
+##  Skills & Focus Areas
 - **Data Cleaning & Wrangling**: transforming raw datasets into structured, reliable information  
 - **Exploratory Data Analysis (EDA)**: uncovering insights through statistics and visualization  
 - **Data Visualization**: creating impactful charts and dashboards to communicate findings  
@@ -23,11 +23,11 @@ It serves as a personal archive of projects, experiments, and learning milestone
 
 ---
 
-## 🎯 Goals
+##  Goals
 - Document my learning journey step by step  
 - Build a portfolio that demonstrates technical ability and analytical thinking  
 - Share knowledge and resources with others exploring data analytics  
-
+- Be a Data Analyst Specialist
 ---
 
 ## 🌱 About Me
@@ -36,7 +36,7 @@ This repo is both a learning journal and a showcase of my growth — from beginn
 
 ---
 
-## 📌 How to Use
+##  How to Use
 - Browse through the folders to explore different projects.  
 - Open Jupyter notebooks (`.ipynb`) for detailed analysis.  
 - Check out visualizations to see how insights are communicated.  
