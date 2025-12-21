@@ -1,0 +1,6 @@
+<img width="474" height="219" alt="image" src="https://github.com/user-attachments/assets/f37f9a61-0c75-40ce-8f5d-5f87fd212df9" />
+
+
+Amazon EMR is the industry-leading cloud big data solution for petabyte-scale data processing, interactive analytics, and machine learning using open-source frameworks such as Apache Spark, Apache Hive, and Presto. You can use Amazon EMR to set up, operate, and scale your big data environments and automate time-consuming tasks like provisioning capacity. In this course, you will learn Amazon EMR Serverless which is a new option in Amazon EMR that makes it efficient and cost-effective for data engineers and analysts to run applications built using open-source big data frameworks without having to tune, operate, optimize, secure, or manage clusters. Additionally, you will learn the benefits, typical use cases, and technical concepts of Amazon EMR. You will have an opportunity to try Amazon EMR Serverless and Amazon EMR Cluster through tutorials using the AWS Management Console. This course includes presentations, graphics, tutorials, and demonstrations with the option to follow along.
+
+<img width="564" height="416" alt="image" src="https://github.com/user-attachments/assets/e3de6ebb-a7ec-4807-ab06-995014f0c023" />
