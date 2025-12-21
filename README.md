@@ -16,6 +16,7 @@ It serves as a personal archive of projects, experiments, and learning milestone
 
 ## 📂 Repository Structure
 -'Data Analytics Learning Plan with AWS/'Certificates
+
 ---
 
 ##  Goals
@@ -30,15 +31,12 @@ I’m Ayabonga, an aspiring **data analyst** based in Johannesburg, South Africa
 This repo is both a learning journal and a showcase of my growth — from beginner projects to professional-level case studies.
 
 ---
-
-##  How to Use
-- Browse through the folders to explore different projects.  
-- Open Jupyter notebooks (`.ipynb`) for detailed analysis.  
-- Check out visualizations to see how insights are communicated.  
-
----
-## 🤝 Connect
-If you’d like to collaborate,RECRUITE, share feedback, or discuss data analytics, feel free to reach out via GitHub Issues or Pull Requests.
-
 ## my Motto
 "Learning today, analyzing tomorrow."
+
+---
+
+## 🤝lets Connect
+If you’d like to collaborate,RECRUITE, share feedback, or discuss data analytics, feel free to reach out via GitHub Issues or Pull Requests.
+
+---
