@@ -15,12 +15,7 @@ It serves as a personal archive of projects, experiments, and learning milestone
 ---
 
 ## 📂 Repository Structure
-- `projects/` → End-to-end case studies and portfolio projects  
-- `notebooks/` → Jupyter notebooks with exploratory analysis and practice exercises  
-- `datasets/` → Sample datasets used for analysis (where licensing allows)  
-- `visualizations/` → Charts, dashboards, and storytelling with data  
-  'cerificates/'~obtained throut the journey
-
+-'Data Analytics Learning Plan with AWS/'Certificates
 ---
 
 ##  Goals
