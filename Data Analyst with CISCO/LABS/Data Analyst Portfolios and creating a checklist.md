@@ -19,6 +19,8 @@ Using a web browser, search for example data science portfolios.
 Select some portfolios and read through and note the range of content and presentation styles.
 The website https://careerfoundry.com/en/blog/data-analytics/data-analytics-portfolio-examples/ examines portfolio examples.
 Step 2: List possible projects.
+<img width="823" height="451" alt="image" src="https://github.com/user-attachments/assets/92a21695-b227-4c8b-a369-9d58433e7753" />
+
 
 Make a list of some of the interesting projects that are highlighted in the portfolios that you viewed.
 
