@@ -1,3 +1,7 @@
+
+<img width="759" height="596" alt="image" src="https://github.com/user-attachments/assets/8433118e-5786-4d0c-bf2e-a1e6b9c6f1fc" />
+
+---
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/4ab44b60-dbb6-439f-9163-2d114b303f3d" />
 
 
@@ -6,5 +10,3 @@ In this course, you will learn how to effectively use Amazon OpenSearch Service 
 
 
 Go to training
-
-<img width="759" height="596" alt="image" src="https://github.com/user-attachments/assets/8433118e-5786-4d0c-bf2e-a1e6b9c6f1fc" />
